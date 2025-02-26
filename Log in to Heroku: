@@ -1,1 +1,28 @@
 heroku login
+
+
+
+Navigate to your backend folder in the terminal and initialize 
+
+git init
+git add .
+git commit -m "Prepare for Heroku deployment"
+
+
+Create a new Heroku app:
+
+heroku create
+
+Add your remote Heroku repository:
+
+git remote add heroku https://git.heroku.com/your-app-name.git
+
+Push your code to Heroku:
+
+git push heroku master
+
+Open your app in the browser:
+heroku open
+
+You should see your backend running on Heroku!
+
