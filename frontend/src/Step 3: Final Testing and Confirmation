@@ -1,0 +1,8 @@
+Test the Backend:
+
+Go to the Heroku URL for your backend (e.g., https://your-heroku-app.herokuapp.com).
+Make sure your API is responding correctly by accessing some of the routes like GET /students/:id.
+Test the Frontend:
+
+Go to your Netlify URL (e.g., https://your-project-name.netlify.app).
+Ensure that the frontend is interacting with your backend and displaying data as expected.
