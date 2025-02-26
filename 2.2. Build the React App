@@ -1,0 +1,7 @@
+Before deploying the React frontend, you need to build it.
+
+In your frontend folder, run:
+
+npm run build
+
+This will generate a build/ folder containing the production version of your app.
