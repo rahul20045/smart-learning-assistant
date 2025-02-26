@@ -1,0 +1,1 @@
+heroku config:set MONGODB_URI=your-mongodb-uri
